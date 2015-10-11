@@ -1,2 +1,2 @@
 # PlayFrameworkSample
-测试
+演示Play Framework框架的使用
